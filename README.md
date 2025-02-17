@@ -14,6 +14,9 @@
 
 - [x] 그 외 LG이노텍, Amkor, 삼성전자 등에 납품하는 자동화 장비의 SW를 보수, 개선 작업을 하였다.
 
+#### 2021~2022  (주)비투팜 `스마트팜` 데이터 분석 SW 개발
+- [x] 스마트팜 센서 데이터 관리 (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server)
+
 #### 2008~2020까지 광통신 기업 연구소 근무
 - [x] 광통신 관련 기업의 연구소에서 정밀 광학소자인 [`WDM칩`](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9E%A5_%EB%B6%84%ED%95%A0_%EB%8B%A4%EC%A4%91)과 모듈을 연구개발 하였다.
 정부R&D과제 기획/관리, `광특성 측정시스템` 개발, `측정데이터 분석SW` 및 `데이터관리 Web서버` 개발 등을 수행하였다.
@@ -54,7 +57,6 @@
 관리를 위해 되도록 앱(UI)과 라이브러리를 분리하였다.
 
 #### 최근 관심분야/진행중 프로젝트 (C#/Python)
-- [x] 스마트팜 센서 데이터 관리 (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server)
 - [x] Spectrometer Measure & Analysis by Machine Learning [`ML`](https://github.com/free302/FiraAiSpecML) [`UI`](https://github.com/free302/FiraAiSpec)
  - 스펙트럼 분석을 통한 비채혈 혈당측정기 운용앱 및 ML 분석 라이브러리([`ML.NET`](https://docs.microsoft.com/ko-kr/dotnet/machine-learning/))
 - [x] Coin Trading System [`UpbitTrader`](https://github.com/free302-BC/UpbitTrader)
