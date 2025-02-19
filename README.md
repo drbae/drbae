@@ -10,7 +10,7 @@
  - 각 SW의 C++용 라이브러리와 예제 프로그램을 개발 배포하였다. 
 
 - [x] Koa Automotive(고아정공)에 납품하는 자동차용 Motor 생산 자동화 장비의 운용SW를 개발하였다.
- - `LeakTester`, `CoverAssembler` 장비는 C# WPF로 구현하였다. 
+ - `LeakTester`, `CoverAssembler` 장비는 C# WPF MVVM으로 구현하였다. 
 
 - [x] 그 외 LG이노텍, Amkor, 삼성전자 등에 납품하는 자동화 장비의 SW를 보수, 개선 작업을 하였다.
 
