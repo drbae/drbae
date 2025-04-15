@@ -21,29 +21,27 @@
 - [x] 스마트팜 센서 데이터 관리 (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server)
 
 #### 2008~2020까지 광통신 기업 연구소 근무
-- [x] 광통신 관련 기업의 연구소에서 정밀 광학소자인 [`WDM칩`](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9E%A5_%EB%B6%84%ED%95%A0_%EB%8B%A4%EC%A4%91)과 모듈을 연구개발 하였다.
-정부R&D과제 기획/관리, `광특성 측정시스템` 개발, `측정데이터 분석SW` 및 `데이터관리 Web서버` 개발 등을 수행하였다.
+- [x] 광통신 관련 기업의 연구소에서 정밀 광학소자인 [`WDM칩`](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9E%A5_%EB%B6%84%ED%95%A0_%EB%8B%A4%EC%A4%91)을 연구개발 하였다.
+- [x] 관련 정부R&D과제 기획/관리 하였다.
 
-- [x] `광특성 측정시스템`은 생산된 WDM 칩의 광학적 특성(투과스펙트럼)을 측정하여 파일로 저장한다.
-시스템은 `Mechanical Alignment Part`, `Optical Measurement Part`, `제어PC`로 구성된다.
-`MA Part`는 50nm 정밀도의 Motion 제어부와 기타 센서로 구성되며, 칩을 광원 및 계측기에 연결된 광섬유와 정렬한다.
-`OM Part`는 빛의 세기를 읽는 광파워미터와 가변파장의 레이저 광원(TLS)로 구성되며, 칩이 정렬된 상태에서 광투과율을 측정한다.
-`제어PC`는 GPIB/DAQ/USB 등으로 각 장치들을 연결/제어하며 `측정제어SW`는 `C#`으로 개발하였다.
+- [x] WDM 칩의 성능검사장비를 개발하였다.
++ WDM 칩의 광학적 특성(투과스펙트럼)을 측정하여 파일로 저장한다.
++ 시스템은 `Mechanical Alignment Part`, `Optical Measurement Part`, `제어PC`로 구성된다.
++ `Mechanical Alignment Part`는 50nm 정밀도의 Motion 제어부와 기타 센서로 구성되며, 칩을 광원 및 계측기에 연결된 광섬유와 정렬한다.
++ `Optical Measurement Part`는 빛의 세기를 읽는 광파워미터와 가변파장의 레이저 광원(TLS)로 구성되며, 칩이 정렬된 상태에서 광투과율을 측정한다.
++ `제어PC`는 GPIB/DAQ/USB 등으로 각 장치들을 연결/제어하며 `측정제어SW`는 `C#`으로 개발하였다.
 
-- [x] 고가인 TLS를 여러 시스템에 공유하기 위해 TCP서버 `TLS Server`를 개발하였다.
-서버와 클라이언트의 장치들은 전기적/광학적으로 연결되며 제어PC는 TCP 소켓으로 연결된다.
-1개의 TLS를 2개의 클라이언트 시스템이 사용시 약간의 성능저하(측정시간증가)가 있지만, 이후 6개까지 클라이언트를 늘려도 추가 성능저하는 없었으며, 시뮬레이션 결과 수십개의 클라이언트와 연결해도 추가 성능저하는 나타나지 않았다.
+- [x] 장비 공유 서버를 제작하였다.
++ 고가의 TLS를 여러 시스템에 공유하기 위해 `TLS Server`를 개발하였다.
++ 서버와 클라이언트의 장치들은 전기적/광학적으로 연결되며 제어PC는 이더넷으로 연결된다.
++ 1개의 TLS를 2개의 클라이언트 시스템이 사용시 약간의 성능저하가 있지만, 이후 6개까지 클라이언트를 늘려도 추가 성능저하는 없었다.
 
-- [x] 하청업체에 제공하는 `측정SW`에 대하여 2가지 툴을 개발하여 부적절한 사용을 방지하였다.
-`native wrapping tool`은 `C++`로 작성된 native binary로 모든 `C# exe & dll`를 래핑하여 IL decompile을 방지한다.
-또한 `license tool`은 제어PC 고유의 정보를 인식하여 `측정SW`의 무단복사 사용을 방지한다.
-
-- [x] 측정된 투과스펙트럼을 분석하기 위한 `wdm analyzing library`를 개발하여 데스크탑 앱과 웹서버에 사용하였다(C# & Python).
-라이브러리는 코드수정 없이 여러 분석알고리즘에 대응하도록 유연하게 설계하였고 수만개의 파일을 처리하는데 병렬처리 기법을 사용한다.
+- [x] 투과스펙트럼을 분석하기 위한 `wdm analyzing library`를 개발하여 데스크탑 앱과 웹서버에 사용하였다(C# & Python).
++ 라이브러리는 코드수정 없이 여러 분석알고리즘에 대응하도록 유연하게 설계하였고 수만개의 파일을 처리하는데 병렬처리 기법을 사용한다.
 
 - [x] `데이터관리 Web서버`는 초기버전은 python과 Django기반으로 개발하였으며, 이후 `PostgreSQL` DB서버와 asp.net으로 재개발하였다.
-백엔드와 프런트엔드 모두에 C#이 사용가능한 [`Blazor`](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0) 기술을 활용하고,
-추후 추가되는 데이터모델을 기존코드 수정없이 런타임에 생성할 수 있도록 `OpCode Emission`기법으로 `Dynamic DB Context`를 개발하였다.
++ 백엔드와 프런트엔드 모두에 C#이 사용가능한 [`Blazor`](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0) 기술을 활용하고,
++ 추후 추가되는 데이터모델을 기존코드 수정없이 런타임에 생성할 수 있도록 `OpCode Emission`기법으로 `Dynamic DB Context`를 개발하였다.
 
 - [x] 그 외 광전변환장치(optical powermeter), 편광제어장치(polarization controller) 등 HW장비와 firmware를 개발하였다.
 
