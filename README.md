@@ -43,6 +43,7 @@
 + The `Mechanical Alignment Part` consists of a Motion control unit with 50nm precision and other sensors, and aligns the chip with optical fibers connected to the light source and measuring instruments.
 + The `Optical Measurement Part` consists of an optical power meter that reads light intensity and a tunable laser source (TLS), and measures the light transmittance while the chip is aligned.
 + The `Control PC` connects and controls each device via GPIB/DAQ/USB, and the `Measurement Control SW` was developed in `C#`.
++ `performance inspection equipment` was delivered to [`AgileChip`](https://www.agilechip.net/) in China.
 
 - [x] Built an equipment sharing server.
 + Developed a `TLS Server` to share expensive TLS equipment among multiple systems.
