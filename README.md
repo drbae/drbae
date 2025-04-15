@@ -1,11 +1,14 @@
-## 👋 Hi, I’m @DrBAE Ph.D.
+#                             n n  cc      # 👋 Hi, I’m @DrBAE Ph.D.
 - 이 문서의 원본 주소는 [여기(https://github.com/drbae)](https://github.com/drbae)입니다.
 
 #### Ph.D. -  [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99)
-- [x] 2012년 전남대학교 물리학과에서 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다.
+<!-- - [x] 2012년 전남대학교 물리학과에서 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다. -->
+- [ ] In 2012, I obtained a Ph.D. in [`QuantumOptics`](https://en.wikipedia.org/wiki/Quantum_optics) with a major in Physics from Chonnam National University.
 
-#### 2022~2024  제이디텍(주) `SW개발팀장`으로 근무
-- [x] 모든 프로젝트에 사용되는 베이스 VS 솔루션 템플릿, 로그 라이브러리 등을 개발하였다. 
+<!-- #### 2022~2024  제이디텍(주) `SW개발팀장`으로 근무 -->
+#### 2022~2024 Worked as SW Development Team Leader at JD Tech Co., Ltd.
+- [x] 모든 프로젝트에 사용되는 베이스 VS 솔루션 템플릿, 로그 라이브러리 등을 개발하였다.
+- [ ] Developed base VS solution templates and log libraries used in all projects.
  
 - [x] KETI(전자부품연구원)에 납품하는 LiDAR 평가시스템의 운용SW를 C#과 C++로 개발하였다.
  - `거리제어장비`는 회전2축 직선1축을 정밀제어하는 Motion Controll로 구현하였고
