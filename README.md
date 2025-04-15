@@ -12,7 +12,7 @@
  - `각도제어장비`는 Yaw, Pitch, Roll의 정밀회전을 협동로봇(UR)을 이용하여 구현했다.
  - 각 SW의 C++용 라이브러리와 예제 프로그램을 개발 배포하였다. -->
 
-#### 2022~2024 Worked as SW Development Team Leader at JD Tech Co., Ltd.
+#### 2022~2024 Worked as SW Development Team Leader at `JDTech Co., Ltd.`
 - [x] Developed base VS solution templates and log libraries used in all projects.
 - [x] Developed the operating software for the LiDAR evaluation system delivered to KETI (Korea Electronics Technology Institute) using C# and C++.
 + The `Distance Control Equipment` was implemented with Motion Control that precisely controls 2 rotational axes and 1 linear axis.
@@ -30,7 +30,7 @@
 <!-- #### 2021~2022  (주)비투팜 `스마트팜` 데이터 분석 SW 개발
 - [x] 스마트팜 센서 데이터 관리 (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server) -->
 
-#### 2021~2022 Developed Smart Farm Data Analysis SW at (주)비투팜
+#### 2021~2022 Developed Smart Farm Data Analysis SW at `Bit2Farm`
 - [x] Smart farm sensor data management (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server)
 
 #### 2008~2020 Worked at an optical communication component company
