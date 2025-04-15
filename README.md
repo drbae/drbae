@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m @DrBAE Ph.D.
-- 이 문서의 원본 주소는 [여기(https://github.com/drbae)](https://github.com/drbae)입니다.
+<!-- - 이 문서의 원본 주소는 [여기(https://github.com/drbae)](https://github.com/drbae)입니다. -->
 
 #### Ph.D. -  [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99)
 <!-- - [x] 2012년 전남대학교 물리학과에서 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다. -->
-- [ ] In 2012, I obtained a Ph.D. in [`QuantumOptics`](https://en.wikipedia.org/wiki/Quantum_optics) with a major in Physics from `Chonnam National University`.
+- [x] In 2012, I obtained a Ph.D. in [`QuantumOptics`](https://en.wikipedia.org/wiki/Quantum_optics) with a major in Physics from `Chonnam National University`.
 
 <!-- #### 2022~2024  제이디텍(주) `SW개발팀장`으로 근무
 - [x] 모든 프로젝트에 사용되는 베이스 VS 솔루션 템플릿, 로그 라이브러리 등을 개발하였다. 
@@ -52,11 +52,11 @@
 - [x] Developed a `wdm analyzing library` to analyze transmission spectra, and it was used in desktop apps and web servers (C# & Python).
 + The library was flexibly designed to support various analysis algorithms without code modification, and it uses parallel processing techniques to handle tens of thousands of files.
 
-[x] The `Data Management Web Server` was initially developed based on Python and Django, and was later redeveloped with a `PostgreSQL DB` server and `asp.net`.
+- [x] The `Data Management Web Server` was initially developed based on Python and Django, and was later redeveloped with a `PostgreSQL DB` server and `asp.net`.
 + It utilizes [`Blazor`](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0) technology, which allows C# to be used for both the backend and frontend.   
 + A `Dynamic DB Context` was developed using the `OpCode Emission` technique to enable the creation of subsequently added data models at runtime without modifying existing code.
 
-[x] Additionally, I developed HW equipment such as `optical power meters` and `polarization controllers`, as well as firmware. 
+- [x] Additionally, I developed HW equipment such as `optical power meters` and `polarization controllers`, as well as firmware. 
 
 <!-- #### 2008~2020까지 광통신 기업 연구소 근무
 - [x] 광통신 관련 기업의 연구소에서 정밀 광학소자인 [`WDM칩`](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9E%A5_%EB%B6%84%ED%95%A0_%EB%8B%A4%EC%A4%91)을 연구개발 하였다.
@@ -111,13 +111,13 @@
 - [x] Anti-decompilation tool [`CppWrap`](https://github.com/free302/CppWrap) (C++)
 - [x] Anti-piracy tool [`UniverseLicense`](https://github.com/free302/UniverseLicense)
 
-#### 광특성 측정시스템 운용 관련 앱 및 웹서버
+<!-- #### 광특성 측정시스템 운용 관련 앱 및 웹서버
 - [x] 데이터 분석/관리 Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)
 - [x] 광특성 측정시스템의 서버 앱 [`TlsServer`](https://github.com/drbae/TlsServer)
 - [x] 광특성 측정시스템의 클라이언트 앱 [`OdmsSw`](https://github.com/drbae/OdmsSw)
 - [x] 광특성 측정시스템의 데이터분석 앱 [`WdmAnalyzer`](https://github.com/drbae/WdmAnalyzer)
 - [x] WDM모듈 측정용 앱 [`Pigtail`](https://github.com/drbae/Pigtail)
-- [x] `광특성 측정시스템`의 사양서 [`SpecSheet`](https://github.com/free302/SpecSheet) (Tex)
+- [x] `광특성 측정시스템`의 사양서 [`SpecSheet`](https://github.com/free302/SpecSheet) (Tex) -->
 
 #### Apps and Web Servers Related to `performance inspection equipment`
 - [x] Data Analysis/Management Web Application [`WdmServer`](https://github.com/drbae/WdmServer) (ASP.NET Core)
@@ -127,14 +127,14 @@
 - [x] `WDM Pigtail` inspection App [`Pigtail`](https://github.com/drbae/Pigtail)
 - [x] Specification Sheet [`SpecSheet`](https://github.com/free302/SpecSheet) (Tex)
 
-#### 기타 잡다한 것들
+<!-- #### 기타 잡다한 것들
 - [x] NavyField 게임 수병뽑기 자동화 툴 [`NFTool`](https://github.com/free302/NFTool)
 - [x] 21대 총선 준연동제 국회의석수 계산기 [`Congress`](https://github.com/free302/Congress)
 - [x] NTFS 파일의 alternate stream lib [`NtfsAltStream`](https://github.com/free302/NtfsAltStream)
 - [x] 심전도 데이터에서 실시간 심박수 계산 및 시각화 앱 [`EcgDev`](https://github.com/free302/EcgDev)
 - [ ] *금형제조업체의 금형관리 웹서버 (C# app을 activex로 변환)*
 - [ ] *Android 용 연락처 관리, SMS 발송 앱 (Java)*
-- [ ] *마우스 매크로를 위한 가상 마우스 드라이버 (C++)*
+- [ ] *마우스 매크로를 위한 가상 마우스 드라이버 (C++)* -->
 
 #### Other Miscellaneous Things
 - [x] NavyField game helper [`NFTool`](https://github.com/free302/NFTool)
