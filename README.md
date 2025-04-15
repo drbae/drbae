@@ -92,7 +92,7 @@
 ## :card_file_box: My Repositories
 <!-- 관리를 위해 되도록 앱(UI)과 라이브러리를 분리하였다. -->
 
-#### 최근 관심분야/진행중 프로젝트 (C#/Python)
+#### Recent Interests / Ongoing Projects <!-- 최근 관심분야/진행중 프로젝트 (C#/Python) -->
 - [x] Spectrometer Measure & Analysis by Machine Learning [`ML`](https://github.com/free302/FiraAiSpecML) [`UI`](https://github.com/free302/FiraAiSpec)
  + Non-invasive blood glucose measurement app and ML analysis library using spectrum analysis.([`ML.NET`](https://docs.microsoft.com/ko-kr/dotnet/machine-learning/))
 - [x] Crypto-Currency Trading System [`UpbitTrader`](https://github.com/free302-BC/UpbitTrader)
