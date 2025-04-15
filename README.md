@@ -33,7 +33,7 @@
 #### 2021~2022 Developed Smart Farm Data Analysis SW at (주)비투팜
 - [x] Smart farm sensor data management (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server)
 
-#### 2008~2020 Worked at a research institute of an optical communication company
+#### 2008~2020 Worked at an optical communication component company
 - [x] Researched and developed [`WDM`](https://en.wikipedia.org/wiki/Wavelength-division_multiplexing) chips, which are precision optical components, at a research institute of an optical communication company.
 - [x] Planned and managed related government R&amp;D projects.
 
