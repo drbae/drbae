@@ -1,6 +1,9 @@
 ## 👋 Hi, I’m @DrBAE Ph.D.
 - 이 문서의 원본 주소는 [여기(https://github.com/drbae)](https://github.com/drbae)입니다.
 
+#### Ph.D. -  [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99)
+- [x] 2012년 전남대학교 물리학과에서 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다.
+
 #### 2022~2024  제이디텍(주) `SW개발팀장`으로 근무
 - [x] 모든 프로젝트에 사용되는 베이스 VS 솔루션 템플릿, 로그 라이브러리 등을 개발하였다. 
  
@@ -20,8 +23,6 @@
 #### 2008~2020까지 광통신 기업 연구소 근무
 - [x] 광통신 관련 기업의 연구소에서 정밀 광학소자인 [`WDM칩`](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9E%A5_%EB%B6%84%ED%95%A0_%EB%8B%A4%EC%A4%91)과 모듈을 연구개발 하였다.
 정부R&D과제 기획/관리, `광특성 측정시스템` 개발, `측정데이터 분석SW` 및 `데이터관리 Web서버` 개발 등을 수행하였다.
-
-- [x] 2012년 전남대학교 물리학과에서 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다.
 
 - [x] `광특성 측정시스템`은 생산된 WDM 칩의 광학적 특성(투과스펙트럼)을 측정하여 파일로 저장한다.
 시스템은 `Mechanical Alignment Part`, `Optical Measurement Part`, `제어PC`로 구성된다.
