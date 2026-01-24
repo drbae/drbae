@@ -5,8 +5,8 @@
 <!-- - [x] 2012년 전남대학교 물리학과에서 [`QuantumOptics`](https://ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EA%B4%91%ED%95%99) 전공으로 박사학위를 취득하였다. -->
 - [x] In 2012, I obtained a Ph.D. in [`QuantumOptics`](https://en.wikipedia.org/wiki/Quantum_optics) with a major in Physics from `Chonnam National University`.
 
-#### 2022~2024  제이디텍(주) `SW개발팀장`으로 근무
-<!-- - [x] 모든 프로젝트에 사용되는 베이스 VS 솔루션 템플릿, 로그 라이브러리 등을 개발하였다.
+<!-- #### 2022~2024  제이디텍(주) `SW개발팀장`으로 근무
+ - [x] 모든 프로젝트에 사용되는 베이스 VS 솔루션 템플릿, 로그 라이브러리 등을 개발하였다.
 - [x] KETI(전자부품연구원)에 납품하는 LiDAR 평가시스템의 운용SW를 C#과 C++로 개발하였다.
  - `거리제어장비`는 회전2축 직선1축을 정밀제어하는 Motion Controll로 구현하였고
  - `각도제어장비`는 Yaw, Pitch, Roll의 정밀회전을 협동로봇(UR)을 이용하여 구현했다.
@@ -29,8 +29,8 @@
 <!-- - [x] 그 외 LG이노텍, Amkor, 삼성전자 등에 납품하는 자동화 장비의 SW를 보수, 개선 작업을 하였다. -->
 - [x] Additionally, I maintained and improved the software for automation equipment delivered to companies such as LG Innotek, Amkor, and Samsung Electronics.
 
-#### 2021~2022  (주)비투팜 `스마트팜` 데이터 분석 SW 개발
-<!-- - [x] 스마트팜 센서 데이터 관리 (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server) -->
+<!-- #### 2021~2022  (주)비투팜 `스마트팜` 데이터 분석 SW 개발
+ - [x] 스마트팜 센서 데이터 관리 (Python/Flask/Dash) [`cams-server`](https://github.com/free302-b2f/cams-server) -->
 
 #### 2021~2022 Developed Smart Farm Data Analysis SW at `Bit2Farm`
 
@@ -177,3 +177,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
